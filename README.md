@@ -1,4 +1,4 @@
-# Hey everyone who come here 👋
+# Hey everyone who comes here 👋
 ### I'm a senior high school student from Taiwan
 ### about to learning html and css
 ### Game:minecraft , Honkai:star rail , Zenless Zone Zero ,Roblox
