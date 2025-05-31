@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hey there 👋
+### I'm a senior high school student
 
+## Programming language:Python ,Cpp
 <!--
 **watermelen63/watermelen63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
