@@ -1,6 +1,6 @@
 # Hey there 👋
 ### I'm a senior high school student
-### My discord::(https://discord.gg/sJSJHhjVbM)(language:traditional chinese)
+### My discord::(https://discord.gg/sJSJHhjVbM) (language:traditional chinese)
 ![watermelen63's Stats](https://github-readme-stats.vercel.app/api?username=watermelen63&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![watermelen63's Streak](https://github-readme-streak-stats.herokuapp.com/?user=watermelen63&theme=vue-dark&hide_border=true)
