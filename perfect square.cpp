@@ -30,7 +30,7 @@ int main(){
                     //如果j=完全平方數且範圍在a和b之間，就放到串列中
                     if (sqrt(j) == int(sqrt(j))){
                         sum += j;
-                        //cout << "sum現為: "<< sum << endl << "j開根號現為: " << sqrt(j) << endl << "j為: " << j << endl << endl;
+                        //cout << "sum現為: "<< sum << endl << "j開根號現為: " << sqrt(j) << endl << "j為: " << j << endl << endl;(可用來測試是否正確)
                     }
                 }
                 cout << "你得出的資料為:" << endl << "Case " << count << ": " << sum << endl;
