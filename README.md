@@ -1,30 +1,30 @@
 # print("hello world :D")
 
 ## experience:
-> Taichung Dali Senior High School \n
-> DLSH 第一屆資訊校隊 \n
-> 17 years old \n
-> zh-tw \n
+> Taichung Dali Senior High School  
+> DLSH 第一屆資訊校隊  
+> 17 years old  
+> zh-tw  
 ## What programing language are using:
-> Python \n
-> c++ \n
+> Python  
+> c++  
 
 ## Want to learn:
-> html \n
-> css \n
-> JavaScript \n
+> html  
+> css  
+> JavaScript  
 
 ## Game:
-> minecraft \n
-> Honkai:star rail \n
-> Zenless Zone Zero \n
-> Roblox \n
-> Left 4 Dead 2 \n
-> Phigros \n
-> osu! \n
-> Project:Playtime \n
-> Steam ID:1705353144 \n
-> Roblox ID:159753diy \n
+> minecraft  
+> Honkai:star rail  
+> Zenless Zone Zero  
+> Roblox  
+> Left 4 Dead 2  
+> Phigros  
+> osu!  
+> Project:Playtime  
+> Steam ID:1705353144  
+> Roblox ID:159753diy  
 ### My discord:https://discord.gg/sJSJHhjVbM (language:traditional chinese)
 ![watermelen63's Stats](https://github-readme-stats.vercel.app/api?username=watermelen63&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
