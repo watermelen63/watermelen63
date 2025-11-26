@@ -7,11 +7,12 @@
 > zh-tw  
 ## What programing language are using:
 > Python  
-> c++  
+> C++
+> Html
+> Css
+> C#  
 
 ## Want to learn:
-> html  
-> css  
 > JavaScript  
 
 ## Game:
