@@ -7,9 +7,9 @@
 > zh-tw  
 ## What programing language are using:
 > Python  
-> C++
-> Html
-> Css
+> C++  
+> Html  
+> Css  
 > C#  
 
 ## Want to learn:
@@ -17,8 +17,9 @@
 
 ## Game:
 > minecraft  
-> Honkai:star rail  
-> Zenless Zone Zero  
+> Honkai:star rail(ID:901181275, server:TW)  
+> Zenless Zone Zero(ID:1309129249, server:Asia)  
+> Wuthering waves  
 > Roblox  
 > Left 4 Dead 2  
 > Phigros  
@@ -26,4 +27,4 @@
 > Project:Playtime  
 > Steam ID:1705353144  
 > Roblox ID:159753diy  
-### My discord:https://discord.gg/sJSJHhjVbM (language:traditional chinese)
+### My discord:https://discord.gg/sJSJHhjVbM (language:zh-TW)
