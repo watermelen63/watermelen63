@@ -3,7 +3,7 @@
 ## experience:
 > Taichung Dali Senior High School  
 > DLSH 第一屆資訊校隊  
-> 17 years old  
+> 18 years old  
 > zh-tw  
 ## What programing language are using:
 > Python  
